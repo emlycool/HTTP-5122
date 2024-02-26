@@ -1,6 +1,6 @@
-# HTTP-5121 Web Development Course
+# HTTP-5121 Frontend Development Course
 
-This repository is designed to track progress on Web Design.
+This repository is designed to track progress on Frontend Web Development.
 
 ## Repository Structure
 
